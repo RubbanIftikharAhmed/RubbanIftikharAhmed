@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RubbanIftikharAhmed
-- 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning C++ and javascript
+- 👀 I am a Software engineering student.
+- 🌱 I’m currently learning C++ and IOS development.
 - 📫 You can reach me at iamrubban@gmail.com
 
 <!---
